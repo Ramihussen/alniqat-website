@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>مجموعة شركات النقاط الأولى | Alniqat Group</title>
+
+<style>
+body{
+margin:0;
+font-family:Arial;
+background:#0b0b0f;
+color:white;
+text-align:center
+}
+
+header{
+height:90vh;
+display:flex;
+align-items:center;
+justify-content:center;
+flex-direction:column;
+background:black
+}
+
+h1{font-size:48px}
+p{font-size:20px;color:#ccc}
+
+section{padding:60px}
+
+.company{
+background:#111;
+margin:15px auto;
+padding:25px;
+border-radius:12px;
+width:85%;
+max-width:600px;
+font-size:18px
+}
+
+.company:hover{
+background:#151515
+}
+
+.contact{
+background:#000;
+padding:50px;
+margin-top:40px
+}
+
+footer{
+background:#050505;
+padding:25px;
+color:#888
+}
+
+a{color:#c9a24a;text-decoration:none;font-weight:bold}
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>مجموعة شركات النقاط الأولى</h1>
+<p>إمبراطورية أعمال في الإعلام والاستثمار والخدمات الطبية والطاقة</p>
+</header>
+
+<section>
+<h2>شركات المجموعة</h2>
+
+<div class="company">1️⃣ النقاط الأولى للدعاية والإعلان والإعلام</div>
+<div class="company">2️⃣ النقاط الأولى للمقاولات العامة والاستثمار العقاري</div>
+<div class="company">3️⃣ النقاط الأولى لخدمات رجال الأعمال والمستثمرين</div>
+<div class="company">4️⃣ النقاط ميديا للإنتاج الفني والتسويق الرقمي</div>
+<div class="company">5️⃣ النقاط الطبية العالمية لاستيراد المعدات الطبية والأدوية</div>
+<div class="company">6️⃣ الوليد الأول لتجهيزات المعارض والمؤتمرات</div>
+<div class="company">7️⃣ NEXYRA Energy Services</div>
+
+</section>
+
+<section class="contact">
+<h2>تواصل معنا</h2>
+
+<p>📱 واتساب مباشر:</p>
+<p><a href="https://wa.me/218941845000">00218941845000</a></p>
+
+<p>📧 البريد الإلكتروني:</p>
+<p>info@alniqataloulaa.com</p>
+<p>ceo@alniqataloulaa.com</p>
+<p>sales@alniqataloulaa.com</p>
+
+</section>
+
+<footer>
+© 2026 Alniqat Group - All Rights Reserved
+</footer>
+
+</body>
+</html>
